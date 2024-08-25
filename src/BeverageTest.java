@@ -12,7 +12,7 @@ public class BeverageTest {
 
         Beverage tea = new Tea();
         tea.setWantsExtras(teaExtras);
-        Beverage coffe=new Coffe();
+        Beverage coffe=new Coffee();
         coffe.setWantsExtras(coffeExtras);
 
         System.out.println("Making Tea ....");

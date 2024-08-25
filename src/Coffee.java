@@ -1,4 +1,4 @@
-public class Coffe extends Beverage{
+public class Coffee extends Beverage{
     private boolean wantsExtras;
     //------------Boil Water--------------
     @Override
